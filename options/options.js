@@ -1,10 +1,11 @@
 export const globalOptions = {
-  name: "myapp104-dev-110029",
-  url: "https://myapp104-dev-110029.botics.co",
-  api: "https://myapp104-dev-110029.botics.co/api/v1",
-  screenOptions: {
-    headerShown: false
-  }
+  "name": "myapp104-dev-110029",
+  "url": "https://myapp104-dev-110029.botics.co",
+  "api": "https://myapp104-dev-110029.botics.co/api/v1",
+  "screenOptions": {
+    "headerShown": false
+  },
+  "initialRoute": "Untitled2"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
